@@ -6,6 +6,7 @@
     <RootNamespace>Events_and_Delegets</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Events_and_Delegets.Program2</StartupObject>
   </PropertyGroup>
 
 </Project>

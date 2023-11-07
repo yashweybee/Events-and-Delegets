@@ -4,10 +4,10 @@ internal class Program
 {
     delegate void printDelegate(string text);
 
-    public void printAnything(printDelegate p)
-    {
-        p("asdfasdasdfasdfas");
-    }
+    //public void printAnything(printDelegate p)
+    //{
+    //    p("asdfasdasdfasdfas");
+    //}
 
 
     private static void Main(string[] args)
